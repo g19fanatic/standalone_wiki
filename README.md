@@ -1,7 +1,7 @@
 # standalone_wiki
 Wiki Template - Strapdown Templated File-based wiki system
 
-Viewable through [gh_pages](https://g19fanatic/github.io/standalone_wiki/index.html)
+Viewable through [gh_pages](https://g19fanatic.github.io/standalone_wiki/index.html)
 
 ## Usage
 
